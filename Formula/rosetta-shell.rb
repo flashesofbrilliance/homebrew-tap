@@ -1,8 +1,8 @@
 class RosettaShell < Formula
   desc "Lossless shell/env translation (bash 3.2 <-> zsh <-> POSIX) + CI portability gate"
   homepage "https://github.com/flashesofbrilliance/rosetta-shell"
-  url "https://github.com/flashesofbrilliance/rosetta-shell/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "07ea39313865c99b2b0b6b4b5c91ea2dabe6272418b660948df91b7a05814816"
+  url "https://github.com/flashesofbrilliance/rosetta-shell/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "c0e42397c7c7181c89e941d798eb15da02eb6126c9fec6b220e05473887a4187"
   license "MIT"
 
   def install
