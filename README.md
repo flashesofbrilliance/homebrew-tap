@@ -13,3 +13,4 @@ brew install rosetta-shell
 
 ## Formulae
 - **rosetta-shell** — lossless shell/env translation (bash 3.2 ↔ zsh ↔ POSIX) + a CI portability gate. [source](https://github.com/flashesofbrilliance/rosetta-shell) · [npm](https://www.npmjs.com/package/@flashesofbrilliance/rosetta-shell)
+- **germinate** — serializable, provenance-carrying handoff protocol for multi-agent / multi-worktree dev (macOS binary; Linux via `npm i -g germinate`). [source](https://github.com/flashesofbrilliance/germinate) · [npm](https://www.npmjs.com/package/germinate)
